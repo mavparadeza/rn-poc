@@ -7,4 +7,4 @@ const BoilerplateScreen = () => {
 
 const styles = StyleSheet.create({});
 
-export default BoilerplateScreen;
+export default BoilerplateScreen; 
